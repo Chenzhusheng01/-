@@ -1,0 +1,2 @@
+民视,http://31.43.191.125:8080/restream/restream/34862
+民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
