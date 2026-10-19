@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.cn/tv/民视.png",民视
+http://31.43.191.125:8080/restream/restream/34862
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png",民視新聞
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
